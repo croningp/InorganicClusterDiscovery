@@ -1,0 +1,49 @@
+{
+    "ios": [
+        {
+            "port": "/dev/sam2"
+        }
+    ],
+    "devices": {
+        "R4": {
+            "command_id": "R4",
+            "config": {
+                "speed": 50000,
+                "max_speed": 50000,
+                "enabled_acceleration": false
+            }
+        },
+        "R5": {
+            "command_id": "R5",
+            "config": {
+                "speed": 50000,
+                "max_speed": 50000,
+                "enabled_acceleration": false
+            }
+        },
+        "R6": {
+            "command_id": "R6",
+            "config": {
+                "speed": 50000,
+                "max_speed": 50000,
+                "enabled_acceleration": false
+            }
+        },
+        "R7": {
+            "command_id": "R7",
+            "config": {
+                "speed": 50000,
+                "max_speed": 50000,
+                "enabled_acceleration": false
+            }
+        },
+        "R8": {
+            "command_id": "R8",
+            "config": {
+                "speed": 50000,
+                "max_speed": 50000,
+                "enabled_acceleration": false
+            }
+        }
+    }
+}

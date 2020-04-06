@@ -1,0 +1,27 @@
+Added Component: Designator=P1(S2B-XH-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(S2B-XH-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P3(S2B-XH-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P4(S2B-XH-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P5(S2B-XH-A)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P6(S2B-XH-A)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Vcc Pin=P1-1
+Added Pin To Net: NetName=Vcc Pin=P2-1
+Added Pin To Net: NetName=Vcc Pin=P3-1
+Added Pin To Net: NetName=Vcc Pin=P4-1
+Added Pin To Net: NetName=Vcc Pin=P5-1
+Added Pin To Net: NetName=Vcc Pin=P6-1
+Added Net: Name=Vcc
+Added Class: Name=schematic

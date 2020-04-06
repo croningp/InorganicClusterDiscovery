@@ -1,0 +1,62 @@
+{
+    "ios": [
+        {
+            "port": "/dev/sam1"
+        }
+    ],
+    "devices": {
+        "wheel": {
+            "command_id": "wheel",
+            "config": {
+                "reverted_switch": true,
+                "reverted_direction": true,
+                "enabled_acceleration": false,
+                "speed": 3000,
+                "homing_speed": 3000,
+                "acceleration": 2000
+            }
+        },
+        "pH_module": {
+            "command_id": "pH",
+            "config": {
+                "reverted_switch": true,
+                "reverted_direction": true,
+                "enabled_acceleration": false,
+                "speed": 12000,
+                "max_speed": 12000,
+                "homing_speed": 12000,
+                "acceleration": 2000
+            }
+        },
+        "R1": {
+            "command_id": "R1",
+            "config": {
+                "speed": 50000,
+                "max_speed": 50000,
+                "enabled_acceleration": false
+            }
+        },
+        "R2": {
+            "command_id": "R2",
+            "config": {
+                "speed": 50000,
+                "max_speed": 50000,
+                "enabled_acceleration": false
+            }
+        },
+        "R3": {
+            "command_id": "R3",
+            "config": {
+                "speed": 50000,
+                "max_speed": 50000,
+                "enabled_acceleration": false
+            }
+        },
+        "fans": {
+            "command_id": "A1"
+        },
+        "stirrer":{
+            "command_id": "A2"
+        }
+    }
+}
