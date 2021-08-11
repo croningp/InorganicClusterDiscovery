@@ -173,7 +173,7 @@ Example config file:
             "command_id": "wheel",
             "config": {
                 "reverted_switch": true,
-                "revereted_driection": true,
+                "revereted_direction": true,
                 "enabled_acceleration": false,
                 "speed": 12000,
                 "homing_speed": 12000,
