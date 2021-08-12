@@ -14,7 +14,7 @@ This software requires the following:
 
 ## Python Libraries
 
-To install all rquired Python libraries, run the following command: `pip install -r requirements.txt`
+To install all required Python libraries, run the following command: `pip install -r requirements.txt`
 
 # Build Instructions
 
@@ -148,7 +148,7 @@ Z_MAX_PIN          19
 
 # Commanduino Setup
 
-This platform uses the COmmanduino library to facilitate all communication between the Arduino board and our Python interface.
+This platform uses the Commanduino library to facilitate all communication between the Arduino board and our Python interface.
 More examples can be found [here](https://github.com/croningp/commanduino/tree/master/examples/commanddevices).
 
 ## Configuration File
@@ -173,7 +173,7 @@ Example config file:
             "command_id": "wheel",
             "config": {
                 "reverted_switch": true,
-                "revereted_direction": true,
+                "reverted_direction": true,
                 "enabled_acceleration": false,
                 "speed": 12000,
                 "homing_speed": 12000,
